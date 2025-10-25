@@ -23,3 +23,4 @@ We're particularly interested in:
 
 - [DeepSeek-R1](https://arxiv.org/abs/2501.12948) - GRPO implementation
 - [DeepSeekMath](https://arxiv.org/abs/2402.03300) - Original GRPO paper
+- [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) - Deepmind course
